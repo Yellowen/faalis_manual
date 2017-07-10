@@ -1,5 +1,22 @@
 {
   "title": "راهنمای فالیس",
   "direction": "rtl",
-  "language": "fa"
+  "language": "fa",
+  "author": "Faalis Core Team",
+  "links": {
+    "sidebar": {
+      "خانه": "http://www.faalis.io"
+    }
+  },
+  "plugins" :
+  [
+    "advanced-emoji",
+    "disqus",
+    "todo",
+    "emphasize",
+    "katex",
+    "mermaid-compat",
+    "chart",
+    "search-pro"
+  ]
 }

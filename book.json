@@ -1,6 +1,20 @@
 {
-  "structure": {
-    "languages": "LANGS.md",
-    "readme": "en/README.md"
+  "plugins": [
+    "advanced-emoji",
+    "todo",
+    "emphasize",
+    "katex",
+    "mermaid-compat",
+    "chart",
+    "search-pro"
+  ],
+  "pluginsConfig": {
+    "sharing": {
+      "facebook": true,
+      "twitter": true
+    }
+  },
+  "search-pro": {
+    "cutWordLib": "nodejieba"
   }
 }
