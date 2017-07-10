@@ -1,5 +1,6 @@
 {
   "structure": {
-    "languages": "LANGS.md"
+    "languages": "LANGS.md",
+    "readme": "en/README.md"
   }
 }
